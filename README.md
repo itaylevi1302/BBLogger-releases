@@ -8,7 +8,9 @@ BBLogger guides the operator through a step-by-step wizard to collect and organi
 
 ## Download
 
-👉 **[Download the latest release](https://github.com/itaylevi1302/BBLogger-releases/releases/latest)**
+👉 **[Download BBLogger.exe](https://github.com/itaylevi1302/BBLogger-releases/releases/latest/download/BBLogger.exe)**
+
+[View all releases](https://github.com/itaylevi1302/BBLogger-releases/releases)
 
 > Windows only · Run as Administrator (UAC prompt appears on first launch)
 
